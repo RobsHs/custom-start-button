@@ -1,0 +1,12 @@
+# Build / Temp Files
+*.obj
+*.o
+*.dll
+*.exe
+*.log
+*.tmp
+.vs/
+.vscode/
+build/
+bin/
+temp/
